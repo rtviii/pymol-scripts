@@ -196,10 +196,8 @@ def save_to_root(name):
 def whisp_menu():
     print("_____________________________________________________________________________________________________")
     print("|              SIGNATURE               |              EFFECT                                        |")
-    print(
-        "|seeclusters [pdbid],                  | Highlight clusters, creating objects for chains of interest|")
-    print(
-        "|save_under [filename],                | Save workspace with a name provided to the local folder    |")
+    print("|seeclusters [pdbid],                  | Highlight clusters, creating objects for chains of interest|")
+    print("|save_under [filename],                | Save workspace with a name provided to the local folder    |")
     print("|___________________________________________________________________________________________________|")
 
 
